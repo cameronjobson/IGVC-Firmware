@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "detect",
+  "idf.currentSetup": "C:\\Users\\xboxk\\esp\\v4.4.8\\esp-idf",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  }
+}
